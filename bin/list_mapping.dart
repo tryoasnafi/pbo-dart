@@ -1,7 +1,7 @@
 void main(List<String> args) {
-  List<int> list = [1, 2, 3, 5];
-  List<int> list2 = [];
-  List<String> newList = [];
+  var list = [1, 2, 3, 5];
+  var list2 = [];
+  var newList = [];
 
   // for (var bil in list) {
   //   print(bil);
